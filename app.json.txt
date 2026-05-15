@@ -1,6 +1,6 @@
 {
-  "name": "𝗥𝗔𝗪𝗔𝗡𝗔-𝗠𝗗",
-  "description": "Javascript WhatsApp bot made by FRAMEXTEAM",
+  "name": "𝐒𝐇𝐀𝐃𝐎𝐖-𝗠𝗗",
+  "description": "Javascript WhatsApp bot made by DEV SHADOW TECH",
   "logo": "https://i.imghippo.com/files/WU1039XIY.jpg",
   "keywords": ["bot"],
   "success_url": "/",
