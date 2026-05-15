@@ -1,0 +1,43 @@
+# Baileys auth sessions (bot session data)
+auth_info_baileys/
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Build or output folders
+lib/
+my_data/
+plugins/
+
+# Environment variables (secrets)
+.env
+.env.local
+.env.enc
+
+# Session backups or archives
+session.tar.gz
+session.tar.gz.enc
+*.zip
+*.tar.gz
+
+# Bot main logic files (optional to hide if you want)
+index.js
+command.js
+workflow.js
+
+# Logs and temp files
+*.log
+*.tmp
+
+# System files and OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor and IDE config files
+.idea/
+.vscode/
+*.swp
+
+# Ignore backup files
+*.bak
