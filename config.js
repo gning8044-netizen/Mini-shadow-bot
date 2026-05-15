@@ -9,5 +9,5 @@ SESSION_ID: process.env.SESSION_ID === undefined? "ENTER YOUR SESSION ID":proces
 MONGODB: process.env.MONGODB || "ENTER YOUR MONGO DB URL",
 GEMINI_API_KEY: process.env.GEMINI_API_KEY || "AIzaSyDzyQ7tnQkquWX8bc1y9TE0auCHbC_QQO8",
 tokenm: process.env.GITHUB_TOKEN || "false",
-repo: process.env.GITHUB_REPO || "RAWANA-MD",
+repo: process.env.GITHUB_REPO || "SHADOW-MD",
 }; 
